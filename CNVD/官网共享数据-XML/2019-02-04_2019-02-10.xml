@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vulnerabilitys><vulnerability><number>CNVD-2018-26073</number><title>亚控科技组态王(KingView)存在本地提权漏洞</title><serverity>高</serverity><products><product>北京亚控科技发展有限公司 组态王（KingView） 6.60 SP3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-11-15</submitTime><openTime>2019-02-04</openTime><discovererName>曲终人散</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.kingview.com</formalWay><description>组态王(KingView)是北京亚控科技公司在国内率先推出的工业组态软件产品。
+
+亚控科技组态王(KingView)存在本地提权漏洞。允许攻击者利用漏洞提交特制请求在应用程序上下文执行任意代码。</description><patchName>亚控科技组态王6.60 SP3存在本地提权漏洞</patchName></vulnerability><vulnerability><number>CNVD-2018-26698</number><title>e5e网站管理系统Wangzt3.0.4企业版存在弱口令漏洞</title><serverity>中</serverity><products><product>湖南第五元素网络科技开发有限公司 e5e网站内容管理系统 Wangzt3.0.4 企业版</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-11</submitTime><openTime>2019-02-05</openTime><discovererName>Wiley</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.e5e.cc/</formalWay><description>湖南第五元素网络科技开发有限公司是一家专业从事互联网信息服务、企业应用软件开发及电子商务平台建设企业。
+
+e5e网站管理系统Wangzt3.0.4企业版存在弱口令漏洞。允许攻击者登录系统后台，获取敏感信息。</description><patchName>e5e网站内容管理系统Wangzt3.0.4企业版存在弱口令漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-00121</number><cves><cve><cveNumber>CVE-2018-20424</cveNumber></cve><cve><cveNumber>CVE-2018-20423</cveNumber></cve><cve><cveNumber>CVE-2018-20422</cveNumber></cve></cves><title>discuz v3.2版本存在访问控制错误漏洞</title><serverity>中</serverity><products><product>北京康盛新创科技有限责任公司 Discuz!X v3.2</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-11</submitTime><openTime>2019-02-05</openTime><discovererName>whirlwind</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.comsenz.com</formalWay><description>Discuz!是一款华人地区非常流行的Web论坛程序。
+
+discuz v3.2版本存在访问控制错误漏洞。攻击者可利用该漏洞影响程序的机密性和可用性。</description></vulnerability><vulnerability><number>CNVD-2018-26939</number><title>联通系统集成有限公司山东分公司OA系统存在逻辑缺陷漏洞</title><serverity>中</serverity><products><product>联通系统集成有限公司山东省分公司 OA系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>farmsec</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.si.cnc.cn/</formalWay><description>联通系统集成有限公司山东省分公司是中国联通的全资上市分支机构，总部注册资金5.5亿元，是国有大型高新科技企业。
+
+联通系统集成有限公司山东分公司OA系统存在逻辑缺陷漏洞。攻击者可利用该漏洞随意抓取并修改传输数据。</description><patchName>联通系统集成有限公司山东分公司OA系统存在逻辑缺陷漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2018-26938</number><title>PbootCMS后台存在SQL注入漏洞</title><serverity>中</serverity><products><product>湖南翱云网络科技有限公司 PbootCMS v1.3.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>AtomHacker</discovererName><formalWay>目前厂商已发布升级补丁以修复漏洞，补丁获取链接：&#xD;
+https://www.pbootcms.com/</formalWay><description>PbootCMS是翱云科技开发的全新内核的开源企业建站系统。
+
+PbootCMS后台存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PbootCMS后台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00137</number><title>海康威视视频播放库SDK存在缓冲区溢出漏洞</title><serverity>低</serverity><products><product>杭州海康威视数字技术股份有限公司 海康威视播放库SDK(for Windows x32) V7.4.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hikvision.com/cn/index.html</formalWay><description>海康威视播放库SDK是海康威视嵌入式网络硬盘录像机、视频服务器、IP设备的配套产品的播放相关的二次开发包。
+
+海康威视视频播放库SDK存在缓冲区溢出漏洞。攻击者可利用漏洞导致拒绝服务或者执行任意代码。</description><patchName>设备网络SDK</patchName><patchDescription>由于修复完成后需要安排集成测试，初步更新计划如下：&#xD;
+预计在1月7号左右更新播放器，播放库，修复版本为V7.3.6.80</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00139</number><title>海康威视视频播放库SDK存在拒绝服务漏洞</title><serverity>低</serverity><products><product>杭州海康威视数字技术股份有限公司 海康威视播放库SDK(for Windows x32) V7.4.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hikvision.com/cn/index.html</formalWay><description>海康威视播放库SDK是海康威视嵌入式网络硬盘录像机、视频服务器、IP设备的配套产品的播放相关的二次开发包。
+
+海康威视视频播放库SDK存在拒绝服务漏洞。攻击者可利用漏洞导致拒绝服务。</description><patchName>设备网络SDK</patchName><patchDescription>由于修复完成后需要安排集成测试，初步更新计划如下：&#xD;
+预计在1月7号左右更新播放器，播放库，修复版本为V7.3.6.80</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00140</number><title>海康威视视频播放库SDK存在二进制漏洞</title><serverity>低</serverity><products><product>杭州海康威视数字技术股份有限公司 海康威视播放库SDK(for Windows x32) V7.4.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hikvision.com/cn/index.html</formalWay><description>海康威视播放库SDK是海康威视嵌入式网络硬盘录像机、视频服务器、IP设备的配套产品的播放相关的二次开发包。
+
+海康威视视频播放库SDK存在二进制漏洞。攻击者可利用漏洞导致拒绝服务。</description><patchName>设备网络SDK</patchName><patchDescription>由于修复完成后需要安排集成测试，初步更新计划如下：&#xD;
+预计在1月7号左右更新播放器，播放库，修复版本为V7.3.6.80</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00138</number><title>海康威视视频播放库SDK存在拒绝服务漏洞（CNVD-2019-00138）</title><serverity>低</serverity><products><product>杭州海康威视数字技术股份有限公司 海康威视播放库SDK(for Windows x32) V7.4.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hikvision.com/cn/index.html</formalWay><description>海康威视播放库SDK是海康威视嵌入式网络硬盘录像机、视频服务器、IP设备的配套产品的播放相关的二次开发包。
+
+海康威视视频播放库SDK存在拒绝服务漏洞。攻击者可利用漏洞导致拒绝服务。</description><patchName>设备网络SDK</patchName><patchDescription>由于修复完成后需要安排集成测试，初步更新计划如下：&#xD;
+预计在1月7号左右更新播放器，播放库，修复版本为V7.3.6.80</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00134</number><title>海康威视视频播放库SDK存在越界访问漏洞</title><serverity>低</serverity><products><product>杭州海康威视数字技术股份有限公司 海康威视播放库SDK(for Windows x32) V7.4.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.hikvision.com/cn/index.html</formalWay><description>海康威视播放库SDK是海康威视嵌入式网络硬盘录像机、视频服务器、IP设备的配套产品的播放相关的二次开发包。
+
+海康威视视频播放库SDK存在越界访问漏洞。攻击者可利用该漏洞导致拒绝服务攻击或者进程信息泄露。</description><patchName>设备网络SDK</patchName><patchDescription>由于修复完成后需要安排集成测试，初步更新计划如下：&#xD;
+预计在1月7号左右更新播放器，播放库，修复版本为V7.3.6.80</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00020</number><title>浙江大华播放库SDK存在堆溢出漏洞</title><serverity>低</serverity><products><product>浙江大华技术股份有限公司 播放库SDK SDK_Win64_V3.40.2_20180704</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.dahuatech.com/</formalWay><description>播放库SDK是基于大华私有的码流封装协议开发，为网络硬盘录像机、网络视频服务器、网络摄像机、网络球机、智能设备等产品服务的开发套件。
+
+浙江大华播放库SDK存在堆溢出漏洞。攻击者可利用漏洞导致拒绝服务或任意代码执行。</description><patchName>设备网络SDK</patchName><patchDescription>1.对播放器库做持续的fuzzing测试；&#xD;
+2.对多个码流模块进行代码审计</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00116</number><title>浙江大华播放库SDK存在越界访问漏洞</title><serverity>低</serverity><products><product>浙江大华技术股份有限公司 播放库SDK SDK_Win64_V3.40.2_20180704</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.dahuatech.com/</formalWay><description>播放库SDK是基于大华私有的码流封装协议开发，为网络硬盘录像机、网络视频服务器、网络摄像机、网络球机、智能设备等产品服务的开发套件。
+
+浙江大华播放库SDK存在越界访问漏洞。攻击者可利用该漏洞导致拒绝服务攻击或泄露进程信息。</description><patchName>设备网络SDK</patchName><patchDescription>1.对播放器库做持续的fuzzing测试；&#xD;
+2.对多个码流模块进行代码审计</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00118</number><title>浙江大华播放库SDK存在拒绝服务漏洞</title><serverity>低</serverity><products><product>浙江大华技术股份有限公司 播放库SDK SDK_Win64_V3.40.2_20180704</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.dahuatech.com/</formalWay><description>播放库SDK是基于大华私有的码流封装协议开发，为网络硬盘录像机、网络视频服务器、网络摄像机、网络球机、智能设备等产品服务的开发套件。
+
+浙江大华播放库SDK存在拒绝服务漏洞。攻击者可利用该漏洞导致拒绝服务。</description><patchName>设备网络SDK</patchName><patchDescription>1.对播放器库做持续的fuzzing测试；&#xD;
+2.对多个码流模块进行代码审计</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00117</number><title>浙江大华播放库SDK存在拒绝服务漏洞（CNVD-2019-00117）</title><serverity>低</serverity><products><product>浙江大华技术股份有限公司 播放库SDK SDK_Win64_V3.40.2_20180704</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>西安四叶草信息技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.dahuatech.com/</formalWay><description>播放库SDK是基于大华私有的码流封装协议开发，为网络硬盘录像机、网络视频服务器、网络摄像机、网络球机、智能设备等产品服务的开发套件。
+
+浙江大华播放库SDK存在拒绝服务漏洞。攻击者可利用该漏洞导致拒绝服务。</description><patchName>设备网络SDK</patchName><patchDescription>1.对播放器库做持续的fuzzing测试；&#xD;
+2.对多个码流模块进行代码审计</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00019</number><title>用友u商城存在SQL注入漏洞</title><serverity>高</serverity><products><product>用友网络科技股份有限公司 U商城 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-20</submitTime><openTime>2019-02-04</openTime><discovererName>wait</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://umall.yonyoucloud.com/</formalWay><description>用友U商城实现多维度商品管理，个性购物体验，全面会员管理，提供灵活营销管理,线上线下整合,全渠道O2O营销方案。
+
+用友u商城存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description><patchName>用友网络科技股份有限公司U商城存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00011</number><title>上海海天信息校园信息化平台存在SQL注入漏洞</title><serverity>高</serverity><products><product>上海海天信息系统工程有限公司 校园信息化平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-21</submitTime><openTime>2019-02-05</openTime><discovererName>Hxy</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.seaskysh.com</formalWay><description>上海海天信息系统工程有限公司是一家致力于教育及学校领域管理应用软件的业务研究、产品研发、应用咨询、项目实施、客户服务、行业联盟的公司。
+
+上海海天信息校园信息化平台存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>上海海天信息校园信息化平台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2018-26936</number><title>ESPCMS存在代码执行漏洞（CNVD-2018-26936）</title><serverity>高</serverity><products><product>洪湖尔创网联信息技术有限公司 ESPCMS P8.18101601稳定版</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-21</submitTime><openTime>2019-02-05</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+https://www.earclink.com</formalWay><description>ESPCMS采用PHP+MySQL开发，能够运行各大主流云平台。
+
+ESPCMS存在代码执行漏洞，攻击者可利用该漏洞获取网站服务器控制权。</description><patchName>ESPCMS P8存在代码执行漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2018-26935</number><title>ZZCMS ad***.php存在SQL注入漏洞</title><serverity>中</serverity><products><product>ZZCMS ZZCMS v2018</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-21</submitTime><openTime>2019-02-05</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.zzcms.net</formalWay><description>ZZCMS是一款免费开源的建站系统，主要面对广大站长使用。
+
+ZZCMS ad***.php存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>ZZCMS ad_px.php存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-00014</number><title>CMSHead存在任意文件读取漏洞</title><serverity>低</serverity><products><product>南充鸿达网络有限公司 CMSHead V2.1_20130528</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.cmshead.com</formalWay><description>CMSHead是南充鸿达网络有限公司开发的一款采用PHP+Mysql架构的网站管理系统。
+
+CMSHead存在任意文件读取漏洞，漏洞源于后台管理的文件管理中未能对访问的文件进行校验，攻击者可利用漏洞读取任意文件。
+</description><patchName>CMSHead 2.1存在任意文件读取漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00007</number><title>DSCms企业站内容管理系统v1.3存在跨站脚本漏洞</title><serverity>中</serverity><products><product>长沙德尚网络科技有限公司 DSCms企业站内容管理系统  v1.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.csdeshang.com/</formalWay><description>DSCms企业站内容管理系统是长沙德尚网络科技有限公司推出的一款企业网站系统。
+
+DSCms企业站内容管理系统v1.3存在跨站脚本漏洞，漏洞源于未能对用户提交的招聘信息进行过滤，攻击者可利用该漏洞执行恶意代码。</description><patchName>DSCMS V1.1存在跨站脚本漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00006</number><title>DSCms企业站内容管理系统v1.3存在未授权访问漏洞</title><serverity>中</serverity><products><product>长沙德尚网络科技有限公司 DSCms企业站内容管理系统  v1.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.csdeshang.com/</formalWay><description>DSCms企业站内容管理系统是长沙德尚网络科技有限公司推出的一款企业网站系统。
+
+DSCms企业站内容管理系统v1.3存在未授权访问漏洞，攻击者可利用该漏洞修改其他用户资料。
+</description><patchName>DSCMS V1.1存在未授权访问漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00009</number><title>Hsycms V1.1版本co***.php页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>深圳好生意网络工作室 Hsycms V1.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.hsycms.com</formalWay><description>Hsycms是一款企业级的网站内容管理系统，由PHP+MYSQL编写，使用模板分离技术，支持创建多种类型的站点。
+
+Hsycms V1.1版本co***.php页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description><patchName>HsyCMS v1.0存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00008</number><title>Hsycms V1.1存在xss漏洞</title><serverity>中</serverity><products><product>深圳好生意网络工作室 Hsycms V1.1</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.hsycms.com</formalWay><description>Hsycms是一款企业级的网站内容管理系统，由PHP+MYSQL编写，使用模板分离技术，支持创建多种类型的站点。
+
+Hsycms V1.1存在xss漏洞，漏洞源于未能对用户提交的数据进行过滤，攻击者可利用该漏洞获取管理员Cookie。</description><patchName>HsyCMS v1.0存在xss漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00013</number><title>iWebShop开源商城系统存在xss漏洞</title><serverity>中</serverity><products><product>济南爱程网络科技有限公司 iWebShop开源商城系统 V5.2.18070700</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商已提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.aircheng.com</formalWay><description>iWebShop开源商城系统是一款基于PHP语言及MYSQL数据库开发的B2B2C单用户和多用户开源商城系统。系统分为前台、后台和商户。
+
+iWebShop开源商城系统存在xss漏洞，攻击者可利用该漏洞执行恶意JavaScript脚本。
+</description><patchName>iWebShop开源商城系统存在xss漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00012</number><title>PHP7CMS v2018-10-09存在任意文件读取漏洞</title><serverity>低</serverity><products><product>春杰工作室 PHP7CMS v2018-10-09</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>浙江大华技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.php7cms.com </formalWay><description>PHP7内容管理系统（简称PHP7CMS）由春杰工作室采用PHP7技术全新研发的内容管理程序。
+
+PHP7CMS v2018-10-09存在任意文件读取漏洞，攻击者可利用该漏洞读取任意文件。</description><patchName>php7cms v181009存在任意文件读取漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-00017</number><title>阜阳心品网络科技有限公司建站系统存在逻辑设计漏洞</title><serverity>中</serverity><products><product>阜阳心品网络科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>靳晓尧1</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.tourxc.cn/</formalWay><description>阜阳心品网络科技有限公司是一家专注于为广大旅游企业提供全网营销解决方案的技术性企业。
+
+阜阳心品网络科技有限公司建站系统存在逻辑设计漏洞，攻击者可利用漏洞修改商品信息。</description><patchName>阜阳心品网络科技有限公司旅游网站建站系统存在逻辑缺陷漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00016</number><title>Tenda AC9路由器存在多个缓冲区溢出漏洞</title><serverity>低</serverity><products><product>深圳市吉祥腾达科技有限公司 Tenda AC9路由器 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>xii@varas</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.tenda.com.cn/</formalWay><description>Tenda AC9路由器是由深圳市吉祥腾达科技有限公司生产的一款路由器。
+
+Tenda AC9路由器存在多个缓冲区溢出漏洞，漏洞源于路由器后台对http请求的参数内容长度未作限制，攻击者可利用该漏洞劫持控制流。</description><patchName>Tenda ac9v1.0路由器存在多个缓冲区溢出漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00015</number><title>Tenda AC9路由器存在命令执行漏洞</title><serverity>中</serverity><products><product>深圳市吉祥腾达科技有限公司 Tenda AC9路由器 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-22</submitTime><openTime>2019-02-06</openTime><discovererName>xii@varas</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.tenda.com.cn/</formalWay><description>Tenda AC9路由器是由深圳市吉祥腾达科技有限公司生产的一款路由器。
+
+Tenda AC9路由器存在命令执行漏洞，攻击者可利用该漏洞执行任意命令。</description><patchName>Tenda ac9 v1.0路由器存在命令执行漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00018</number><title>先电数字化资源教学平台存在SQL注入漏洞</title><serverity>中</serverity><products><product>中国电子科技集团公司第五十五研究所 先电数字化资源教学平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-23</submitTime><openTime>2019-02-08</openTime><discovererName>yu_sec</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.cetc55.com/</formalWay><description>先电数字化资源教学平台是为用户提供网络教学服务。
+
+先电数字化资源教学平台存在SQL注入漏洞。攻击者可利用漏洞登录账户系统，获取数据库敏感信息。</description><patchName>先电数字化资源教学平台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00143</number><title>zzzphp sa***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>zzzcms zzzphp V1.5.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-24</submitTime><openTime>2019-02-10</openTime><discovererName>宁峰剑</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+http://www.zzzcms.com/index.html</formalWay><description>zzzphp是采用PHP开发的免费建站整站系统。 
+
+zzzphp sa***.php文件存在SQL注入漏洞。攻击者可利用漏洞获取数据库敏感信息。</description><patchName>zzzphp 1.5.9版本存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-00142</number><title>智慧政务建设云平台存在存储型跨站脚本漏洞</title><serverity>中</serverity><products><product>大河网 智慧政务建设云平台 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-24</submitTime><openTime>2019-02-09</openTime><discovererName>山东新潮</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新：&#xD;
+https://zwy.dahe.cn/</formalWay><description>大河网是河南省重点新闻网站，是经河南省委、省政府同意，国务院新闻办公室批准，在整合全省新闻信息资源的基础上，由河南报业网、原大河网强强联合而成。
+
+智慧政务建设云平台存在存储型跨站脚本漏洞。攻击者可在页面中插入恶意js代码，获得用户cookie等信息，导致用户被劫持。</description><patchName>智慧政务建设云平台存在xss漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01350</number><title>互诺科技建站系统存在SQL注入漏洞</title><serverity>高</serverity><products><product>互诺科技 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>梁捷</discovererName><description>互诺科技是一家互联网应用服务商。
+
+互诺科技建站系统存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>互诺科技建站系统存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01349</number><title>Zzzphp V1.5.9后台sa***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>zzzcms zzzcms V1.5.9php版</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>宁峰剑</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.zzzcms.com/index.html</formalWay><description>zzzphp是采用PHP开发的免费建站整站系统。
+
+Zzzphp V1.5.9后台sa***.php文件存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>Zzzphp1.5.9版本存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01348</number><title>Xiuno BBS系统存在系统重装漏洞</title><serverity>中</serverity><products><product>北京若深科技有限公司 Xiuno BBS 4.0.4</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>Wiley</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://bbs.xiuno.com/</formalWay><description>Xiuno BBS是一套开源的轻量级论坛系统。
+
+Xiuno BBS系统存在系统重装漏洞。该漏洞源于系统安装完毕后未对安装目录进行任何防护或过滤，攻击者可直接通过安装页面重装系统。</description><patchName>Xiuno BBS系统存在系统重装漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01361</number><title>PHPMyWind di***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind di***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获得数据库敏感信息。</description><patchName>PHPMyWind diyfield_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-01360</number><title>PHPMyWind go***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind go***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind goods_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-01359</number><title>PHPMyWind go***ty***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><referenceLink>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</referenceLink><formalWay>输入过滤</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind go***ty***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind goodstype_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-01358</number><title>PHPMyWind in***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind in***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind infoclass_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-01357</number><title>PHPMyWind jo***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind jo***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind job_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01356</number><title>PHPMyWind  mem***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  mem***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind member_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01355</number><title>PHPMyWind  mes***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  mes***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+</description><patchName>PHPMyWind message_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01354</number><title>PHPMyWind  na***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  na***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+
+
+</description><patchName>PHPMyWind nav_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01353</number><title>PHPMyWind  si***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>韩云飞</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  si***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+
+
+</description><patchName>PHPMyWind site_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01352</number><title>PHPMyWind  so***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>雨沫</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PHPMyWind  是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  so***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+
+</description><patchName>PHPMyWind soft_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01351</number><title>PHPMyWind  we***_up***.php文件存在SQL注入漏洞</title><serverity>中</serverity><products><product>PHPMyWind PHPMyWind 5.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-25</submitTime><openTime>2019-02-09</openTime><discovererName>雨沫</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpmywind.com/</formalWay><description>PPMyWind是一款基于PHP+MySQL开发符合W3C标准的建站引擎。 
+
+PHPMyWind  we***_up***.php文件存在SQL注入漏洞。攻击者可利用该漏洞获取数据库敏感信息。
+
+
+</description><patchName>PHPMyWind weblinktype_update.php文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01347</number><title>zzzphp V1.5.9版本zz***.php页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>zzzcms zzzphp V1.5.9</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>宁峰剑</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.zzzcms.com/index.html</formalWay><description>zzzphp是采用PHP开发的免费建站整站系统。
+
+zzzphp V1.5.9版本zz***.php页面存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>Zzzphp1.5.9版本存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01346</number><title>湖南省人民政府安卓APP存在越权访问漏洞（CNVD-2019-01346）</title><serverity>中</serverity><products><product>湖南省人民政府发展研究中心 湖南省人民政府安卓APP v2.3.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曲终人散</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.hunan.gov.cn/</formalWay><description>湖南省人民政府安卓APP是湖南省政府信息公开的移动门户，具备新闻动态，事项查询、事项申请、办件查询、服务评价、缴费服务、物流服务、材料上传、网上预约、办事指南、个人办事、企业办事、部门办事、主题办事、证照批文预览及下载、申报信息暂存、等功能。
+
+湖南省人民政府安卓APP存在越权访问漏洞，攻击者可利用该漏洞获取敏感信息。</description></vulnerability><vulnerability><number>CNVD-2019-01344</number><title>和利时HOLLiAS_MACS分布式控制系统存在权限许可访问控制漏洞</title><serverity>低</serverity><products><product>和利时集团 HOLLiAS_MACS V6.5.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曲终人散</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.hollysys.com</formalWay><description>和利时集团是集研发、生产、销售、技术服务为一体的专业自动化公司。
+
+和利时HOLLiAS_MACS分布式控制系统存在权限许可访问控制漏洞，攻击者可利用该漏洞覆盖原有的密码。</description><patchName>和利时HOLLiAS_MACS分布式控制系统工程总控存在权限许可访问控制漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01505</number><title>PHPSHE B2C商城系统v1.7ad***.php页面存在SQL注入漏洞</title><serverity>中</serverity><products><product>灵宝简好网络科技有限公司 PHPSHE B2C商城系统 v1.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>si1ence</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.phpshe.com/</formalWay><description>PHPSHE B2C商城系统是一套网上商城系统。该系统支持快递跟踪、在线聊天、订单评价和数据统计等功能。
+
+PHPSHE B2C商城系统v1.7ad***.php页面存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>PHPSHE商城管理系统v1.7存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01504</number><title>ZZCMS ad***.php页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>ZZCMS ZZCMS 2018</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>杭州安恒信息技术股份有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.zzcms.net</formalWay><description>ZZCMS是一套用于快速搭建招商型网站的CMS（内容管理系统）。
+
+ZZCMS ad***.php页面存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>ZZCMS admin.php存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。 </patchDescription></vulnerability><vulnerability><number>CNVD-2019-01503</number><title>poppler存在空指针引用漏洞</title><serverity>中</serverity><products><product>feedesktop poppler 0.72</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>华为技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.freedesktop.org</formalWay><description>poppler是一款在linux平台广泛使用的pdf解析引擎。
+
+poppler存在空指针引用漏洞，攻击者可利用该漏洞造成拒绝服务。</description><patchName>pdf引擎poppler存在空指针引用漏洞</patchName><patchDescription>暂未建立与软件生产厂商的直接处置渠道，待认领。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01502</number><title>libxls存在拒绝服务漏洞（CNVD-2019-01502）</title><serverity>中</serverity><products><product>libxls libxls </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>华为技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://github.com/evanmiller/libxls/issues/34</formalWay><description>libxls是一个用于读取Exce（xls）文件的C语言库。
+
+libxls存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description><patchName>xls2csv存在拒绝服务漏洞</patchName><patchDescription>暂未建立与软件生产厂商的直接处置渠道，待认领。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01501</number><title>启明星投标系统Bid前台sl***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 启明星投标系统Bid v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>北京天融信网络安全技术有限公司</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/&#xD;
+</formalWay><description>启明星投标系统Bid是一款适合企业对政府采购、工程建设、土地出让等招标信息进行资料收集，并对中标项目的工程进度、付款进行进行跟踪的系统。
+
+启明星投标系统Bid前台sl***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。
+</description><patchName>启明星工作室启明星投标系统bid前台sln_details_pay.aspx文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01500</number><title>启明星投标系统Bid前台ge***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 启明星投标系统Bid v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/</formalWay><description>启明星投标系统Bid是一款适合企业对政府采购、工程建设、土地出让等招标信息进行资料收集，并对中标项目的工程进度、付款进行进行跟踪的系统。
+
+启明星投标系统Bid前台ge***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。
+</description><patchName>启明星工作室启明星投标系统bid前台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01499</number><title>Freeware Advanced Audio Decoder 2存在拒绝服务漏洞</title><serverity>低</serverity><products><product>FAAD2 FAAD2 v2.8.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>华为技术有限公司--刘铸</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.audiocoding.com/faad2.html </formalWay><description>Freeware Advanced Audio Decoder 2是高级音频编码器。 
+
+Freeware Advanced Audio Decoder 2 (FAAD2)在v2.8.8版本中存在拒绝服务漏洞，攻击者可利用该漏洞造成拒绝服务。</description><patchName>Freeware Advanced Audio Decoder存在拒绝服务漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01498</number><title>电子文档库eDoc前台Bi***.ashx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 电子文档库eDoc v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/</formalWay><description>电子文档库eDoc是一款安徽启明星工作室开发的点击文档管理系统。
+
+电子文档库eDoc前台Bi***.ashx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感。</description><patchName>启明星工作室启明星电子文档库edoc前台Binn.ashx文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01497</number><title> 电子文档库eDoc前台ge***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 电子文档库eDoc v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/</formalWay><description>电子文档库eDoc是一款安徽启明星工作室开发的点击文档管理系统。
+
+电子文档库eDoc前台ge***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description><patchName>启明星工作室启明星电子文档库edoc前台getpath.aspx文件存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01496</number><title>电子文档库eDoc前台ge***.aspx页面存在SQL注入漏洞（CNVD-2019-01496）</title><serverity>高</serverity><products><product>安徽启明星工作室 电子文档库eDoc v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.cnblogs.com/mqingqing123/p/5453480.html</formalWay><description>电子文档库eDoc是一款安徽启明星工作室开发的点击文档管理系统。
+
+电子文档库eDoc前台ge***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description><patchName>启明星工作室启明星电子文档库edoc前台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01495</number><title>电子文档库eDoc前台存在任意文件下载漏洞</title><serverity>中</serverity><products><product>安徽启明星工作室 电子文档库eDoc v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.cnblogs.com/mqingqing123/p/5453480.html</formalWay><description>电子文档库eDoc是一款安徽启明星工作室开发的点击文档管理系统。
+
+电子文档库eDoc前台存在任意文件下载漏洞，攻击者可利用漏洞获取敏感文件。</description><patchName>启明星工作室启明星电子文档库edoc前台存在任意文件下载漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01494</number><title>采购系统Purchase前台pr***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 采购系统Purchase v26.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商尚未提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/</formalWay><description>采购系统Purchase是一款采购管理系统功能包括：产品领用、入库、库存盘点、数据报表等。
+
+采购系统Purchase前台pr***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description></vulnerability><vulnerability><number>CNVD-2019-01493</number><title>采购系统Purchase前台ge***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 采购系统Purchase v26.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.cnblogs.com/mqingqing123/p/5453480.html</formalWay><description>采购系统Purchase是一款采购管理系统功能包括：产品领用、入库、库存盘点、数据报表等。
+
+采购系统Purchase前台ge***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description><patchName>启明星工作室启明星采购系统purchase前台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01525</number><title>档案系统Profile前台Bi***.ashx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 档案系统Profile v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.dotnetcms.org/</formalWay><description>档案系统Profile是一套企业内部员工管理软件。
+
+档案系统Profile前台Bi***.ashx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。</description><patchName>启明星工作室启明星员工档案管理系统profile前台Binn.ashx存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01524</number><title>档案系统Profile前台ge***.aspx页面存在SQL注入漏洞</title><serverity>高</serverity><products><product>安徽启明星工作室 档案系统Profile v25.0</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曾强</discovererName><formalWay>厂商已提供漏洞修补方案，请关注厂商主页及时更新： &#xD;
+http://www.cnblogs.com/mqingqing123/p/5453480.html</formalWay><description>档案系统Profile是一套企业内部员工管理软件。
+
+档案系统Profile前台ge***.aspx页面存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。
+</description><patchName>启明星工作室启明星员工档案管理系统profile前台存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01365</number><title>和利时HOLLiAS_MACS分布式控制系统存在代码执行漏洞</title><serverity>中</serverity><products><product>和利时集团 HOLLiAS_MACS V6.5.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曲终人散</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.hollysys.com/</formalWay><description>和利时集团是集研发、生产、销售、技术服务为一体的专业自动化公司。
+
+和利时HOLLiAS_MACS分布式控制系统存在代码执行漏洞，攻击者可利用该漏洞执行任意代码。</description><patchName>和利时HOLLiAS_MACS分布式控制系统操作员在线存在代码执行漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01364</number><title>和利时HOLLiAS_MACS分布式控制系统存在信息泄露漏洞</title><serverity>低</serverity><products><product>和利时集团 HOLLiAS_MACS V6.5.3</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>曲终人散</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.hollysys.com/</formalWay><description>和利时集团是集研发、生产、销售、技术服务为一体的专业自动化公司。
+
+和利时HOLLiAS_MACS分布式控制系统存在信息泄露漏洞，攻击者可利用该漏洞获取登录密码。</description><patchName>和利时HOLLiAS_MACS分布式控制系统存在信息泄露漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01363</number><title>PHPSHE B2C商城系统v1.7ca***.php存在SQL注入漏洞</title><serverity>中</serverity><products><product>灵宝简好网络科技有限公司 PHPSHE B2C商城系统 v1.7</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>si1ence</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新： &#xD;
+http://www.phpshe.com/</formalWay><description>PHPSHE B2C商城系统是一套网上商城系统。该系统支持快递跟踪、在线聊天、订单评价和数据统计等功能。
+
+PHPSHE B2C商城系统v1.7ca***.php存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。</description><patchName>PHPSHE商城管理系统v1.7 cashout.php存在SQL注入漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01362</number><title>Freeware Advanced Audio Deoder 2存在拒绝服务漏洞（CNVD-2019-01362）</title><serverity>低</serverity><products><product>FAAD2 FAAD2 v2.8.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>华为技术有限公司--刘铸</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+https://www.audiocoding.com/faad2.html</formalWay><description>Freeware Advanced Audio Decoder 2是高级音频编码器。 
+
+Freeware Advanced Audio Decoder 2 (FAAD2)在v2.8.8版本中存在拒绝服务漏洞，攻击者可借助特制的acc文件利用该漏洞造成拒绝服务。</description><patchName>Freeware Advanced Audio Deoder(FAAD2)存在拒绝服务漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01523</number><title>北京易维云数据科技有限公司建站ABC建站系统存在越权访问漏洞</title><serverity>中</serverity><products><product>北京易维云数据科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>纯白Posoki</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.ev123.net</formalWay><description>北京易维云数据科技有限公司是一家专注为中小企业提供互联网基础数据服务，数据运营的创新型企业。
+
+北京易维云数据科技有限公司建站ABC建站系统存在越权访问漏洞，攻击者可利用该漏洞执行脚本。</description><patchName>北京易维云数据科技有限公司建站系统存在越权访问漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01522</number><title>北京易维云数据科技有限公司建站ABC建站系统存在xss漏洞</title><serverity>中</serverity><products><product>北京易维云数据科技有限公司 建站系统 </product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>纯白Posoki</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.ev123.net</formalWay><description>北京易维云数据科技有限公司是一家专注为中小企业提供互联网基础数据服务，数据运营的创新型企业。
+
+北京易维云数据科技有限公司建站ABC建站系统存在xss漏洞，攻击者可利用该漏洞获取管理员cookie。</description><patchName>北京易维云数据科技有限公司建站系统存在xss漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01521</number><title>HisiPHP存在代码执行漏洞</title><serverity>高</serverity><products><product>HisiPHP HisiPHP 1.0.8</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>Wiley</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.hisiphp.com/ </formalWay><description>HisiPHP是基于ThinkPHP5 + Layui开发的一套免费的WEB开源框架。
+
+HisiPHP存在代码执行漏洞，攻击者可利用该漏洞执行任意代码。</description><patchName>HisiPHP存在命令执行漏洞</patchName><patchDescription>已由CNVD通过软件生产厂商公开联系渠道向其邮件通报，由其后续提供解决方案并协调相关用户单位处置。</patchDescription></vulnerability><vulnerability><number>CNVD-2019-01520</number><title>掌上书城APP存在xss漏洞</title><serverity>中</serverity><products><product>深圳出版集团有限公司 掌上书城APP v1.0.4.5</product></products><isEvent>通用软硬件漏洞</isEvent><submitTime>2018-12-26</submitTime><openTime>2019-02-10</openTime><discovererName>farmsec</discovererName><formalWay>厂商尚未提供漏洞修复方案，请关注厂商主页更新：&#xD;
+http://www.szbookmall.com/</formalWay><description>掌上书城是深圳出版发行集团旗下的深圳书城官方APP。
+
+掌上书城APP存在xss漏洞，攻击者可利用该漏洞获取管理员cookie。</description></vulnerability></vulnerabilitys>
