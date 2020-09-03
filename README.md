@@ -1,3 +1,5 @@
+## 对大佬有帮助的话就给个Star吧！
+
 # VulDB_Spider
 
  vulnerability database spider 爬取NVD、CNVD、CNNVD等漏洞数据库
