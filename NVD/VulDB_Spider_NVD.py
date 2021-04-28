@@ -17,11 +17,21 @@ class Handler(BaseHandler):
 
     @config(age=10 * 24 * 60 * 60)
     def index_page(self, response): #获取nvd按年月进行分类的链接
-        for each in response.doc('#page-content a[href^="http"]').items():
+        
+        #for each in response.doc('#page-content a[href^="http"]').items():
+        #   self.crawl(each.attr.href, callback=self.index2_page)
+        
+        #update:20210428
+        for each in response.doc('#body-section > div:nth-child(2) a[href^="http"]').items():
             self.crawl(each.attr.href, callback=self.index2_page)
             
     def index2_page(self, response):#获取所属分类的具体CVE链接,修改了css选择器排除了最后一个不是cve的链接
-        for each in response.doc('#page-content div.row a[href^="http"]').items():
+        
+        #for each in response.doc('#page-content div.row a[href^="http"]').items():
+            #self.crawl(each.attr.href, callback=self.detail_page)
+            
+        #update:20210428
+        for each in response.doc('#body-section > div:nth-child(2) > div a[href^="http"]').items():
             self.crawl(each.attr.href, callback=self.detail_page)
         
     @config(priority=2)
